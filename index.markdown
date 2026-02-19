@@ -16,7 +16,7 @@ Since the app is not officially released on neither the apple store nor the goog
 1. Then setup an android virtual device. 
 1. Drag and drop the APK file to the emulator to install and run it.
 
-Link to <strong>APK file here</strong>: <a href="https://github.com/BlaneWins/software-capstone-webpage/archive/refs/tags/v1.0.0.zip">Download</a>
+Link to <strong>APK file here</strong>: <a href="https://github.com/BlaneWins/software-capstone-webpage/releases/download/v1.0.0/com.companyname.d424softwarecapstonemobileapp-Signed.apk">Download</a>
   
 ### Screenshots
 
