@@ -19,3 +19,6 @@ Since the app is not officially released on neither the apple store nor the goog
 Link to <strong>APK file here</strong>: <a href="">Download</a>
   
 ### Screenshots
+
+  
+  
